@@ -19,6 +19,7 @@ public class MidtermPractice1 {
         System.out.println("This is what i wrote on github with the pencil.");
         System.out.println("2nd pencil attempt with fetch"); 
         System.out.println("3rd pencil attempt with PULL");
+        System.out.println("This is what i wrote after creating a branch");
     }
     
 }
