@@ -17,6 +17,7 @@ public class MidtermPractice1 {
     public static void main(String[] args) {
         System.out.println("Commit to Local Repository and Pushing to Github");
         System.out.println("This is what i wrote on github with the pencil.");
+        System.out.println("2nd pencil attempt with fetch"); 
     }
     
 }
