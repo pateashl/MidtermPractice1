@@ -20,7 +20,8 @@ public class MidtermPractice1 {
         System.out.println("2nd pencil attempt with fetch"); 
         System.out.println("3rd pencil attempt with PULL");
         System.out.println("This is what i wrote after creating a branch");
-        System.out.println("trying this again")
+        System.out.println("TRy again");
+        
     }
     
 }
